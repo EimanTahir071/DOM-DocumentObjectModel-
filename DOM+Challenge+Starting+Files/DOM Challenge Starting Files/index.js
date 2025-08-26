@@ -1,1 +1,1 @@
-document.query
+  document.query
